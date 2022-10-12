@@ -1,2 +1,2 @@
 # my_leetcode
-For leetcode learning
+## 持续提高coding能力
